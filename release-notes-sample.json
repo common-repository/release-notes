@@ -1,0 +1,37 @@
+{
+    "1.1.0":{
+        "release_description" : "Version 1.1 of Release Notes has some new features.",
+        "release_date" : "2017-09-01 00:00:00",
+        "release_notes" :[
+            {
+                "note_title"       : "All da features",
+                "note_description" : null,
+                "note_bullets"     :[
+                    "<mark>Mark it up!</mark>"
+                ]
+            }
+        ]
+    },
+    "1.0.0":{
+        "release_description" : "Version 1.0 of Release Notes is a major release that includes a fun new way to view release notes for themes.",
+        "release_date" : "2017-08-01 00:00:00",
+        "release_notes" :[
+            {
+                "note_title"       : "Initial commit",
+                "note_description" : "You can optionally include descriptions. Otherwise, omit it or make its value <code>null</code>",
+                "note_bullets"     :[
+                    "Supports <b>text</b> <i>styles</i>",
+                    "And other stuff"
+                ]
+            },
+
+            {
+                "note_title"       : "More features!",
+                "note_description" : null,
+                "note_bullets"     :[
+                    "Do what ya want"
+                ]
+            }
+        ]
+    }
+}
